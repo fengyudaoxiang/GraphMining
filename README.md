@@ -1,2 +1,2 @@
 # GraphMining
-records a set of Graph Mining algorithm to insight for later works.
+To record the prelimitaries and source code of some graph mining related algorithms I have known.
